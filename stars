@@ -1,0 +1,11 @@
+public class PatternGenerator{
+     public static void main(String[] args){
+	 System.out.Println("*************")
+	 
+	 System.out.println("*           *);
+	 System.out.println("*           *);
+	 System.out.println("*           *);
+	 
+	 System.out.println("*************");
+	 }
+}
